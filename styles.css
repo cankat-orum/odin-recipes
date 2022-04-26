@@ -1,0 +1,14 @@
+h1 {
+    color: #ffe700;
+    background-color: #74ee15;
+    width: max-content;
+}
+
+#ramen-img {
+    height: auto;
+    width: 360px;
+}
+
+ol li, ul li, p {
+    font-family: 'Courier New', monospace;
+}
